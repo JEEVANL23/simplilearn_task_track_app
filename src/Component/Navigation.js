@@ -15,6 +15,7 @@ export default function Navigation() {
             <Link className="nav-item nav-link" to="/taskmanage">Task Manage</Link>
             <Link className="nav-item nav-link" to="/login">Log In</Link>
             <Link className="nav-item nav-link disabled" to="#">Settings</Link>
+            <Link className="nav-item nav-link disabled" to="#">Contacts</Link>
            
           </div>
         </div>
